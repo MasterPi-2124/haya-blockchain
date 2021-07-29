@@ -1,0 +1,12 @@
+syntax = "proto3";
+package MasterPi2124.haya.haya;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/MasterPi-2124/haya/x/haya/types";
+
+// GenesisState defines the haya module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+    // this line is used by starport scaffolding # ibc/genesis/proto
+}
